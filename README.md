@@ -36,7 +36,6 @@ Generate professional, engaging LinkedIn posts based on the latest news for any 
 
 ```sh
 git clone <repository-url>
-cd linkedin-post-generator
 ```
 
 ### 2. Create a Virtual Environment
@@ -128,3 +127,4 @@ curl -X 'POST' \
 ```
 
 ---
+
